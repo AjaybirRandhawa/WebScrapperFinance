@@ -1,0 +1,25 @@
+Symbol, Name, Price, Change, Percent Change, Volume, Average Volume, Market Cap
+SEV.V,Spectra7 Microsystems Inc.,0.0600,+0.0150,+33.33%,17.929M,650.615,35.427M
+CGX-DBB.TO,,86.00,+1.00,+1.18%,17.047M,N/A,N/A
+APHA.TO,Aphria Inc.,6.36,-1.35,-17.51%,12.302M,2.498M,1.833B
+HALO.NE,Halo Labs Inc.,0.0550,0.0000,0.00%,7.697M,3.171M,25.725M
+CNQ.TO,Canadian Natural Resources Limited,23.71,+0.06,+0.25%,6.419M,5.94M,28.002B
+MYCO.CN,Mydecine Innovations Group Inc.,0.2800,-0.0650,-18.84%,6.407M,N/A,9.363M
+SU.TO,Suncor Energy Inc.,16.05,-0.19,-1.17%,6.021M,8.601M,24.479B
+TD.TO,The Toronto-Dominion Bank,60.56,+0.53,+0.88%,5.236M,5.329M,109.741B
+RY.TO,Royal Bank of Canada,97.07,-0.01,-0.01%,5.192M,3.518M,138.053B
+WRG.TO,Western Energy Services Corp.,0.3000,+0.0250,+9.09%,5.086M,30.568,27.276M
+DOC.V,CloudMD Software & Services Inc.,2.5600,+0.0900,+3.64%,5.006M,N/A,337.958M
+KEN.V,Kenadyr Mining (Holdings) Corp.,0.0350,-0.0050,-12.50%,4.544M,184.242,4.076M
+XLY.V,Auxly Cannabis Group Inc.,0.2500,+0.0400,+19.05%,4.487M,935.500,157.988M
+MTRX.V,Loop Insights Inc.,0.3250,+0.0050,+1.56%,4.069M,1.461M,31.548M
+BBDB.TO,BOMBARDIER INC., CL. B, SV,0.3300,-0.0050,-1.49%,3.721M,7.973M,N/A
+BBD-B.TO,Bombardier Inc.,0.3300,-0.0050,-1.49%,3.721M,5.139M,818.582M
+CVE.TO,Cenovus Energy Inc.,5.07,-0.06,-1.17%,3.683M,4.123M,6.23B
+AC.TO,Air Canada,15.52,-0.24,-1.52%,3.628M,4.635M,4.599B
+ABX.TO,Barrick Gold Corporation,36.68,-0.53,-1.42%,3.606M,5.08M,65.22B
+ENB.TO,Enbridge Inc.,38.63,-0.07,-0.18%,6.005M,5.829M,78.233B
+CPG.TO,Crescent Point Energy Corp.,1.6700,-0.0400,-2.34%,3.287M,3.117M,884.657M
+TRP.TO,TC Energy Corporation,57.83,+0.82,+1.44%,3.091M,2.704M,54.36B
+BNS.TO,The Bank of Nova Scotia,56.12,+0.27,+0.48%,3.032M,4.496M,68.711B
+BCE.TO,BCE Inc.,56.68,+0.53,+0.94%,2.927M,2.446M,51.257B
