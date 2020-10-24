@@ -3,7 +3,7 @@ from pymongo import MongoClient
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
 
-cluster = MongoClient("mongodb+srv://Ajaybir_Randhawa:Navpreet_786@most-active.dvsp2.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority")
+cluster = MongoClient("mongodb+srv://[Redacted]@most-active.dvsp2.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority")
 db = cluster["finance"]
 collection = db["most-active"]
 
