@@ -7,7 +7,7 @@ cluster = MongoClient("mongodb+srv://[Redacted]@most-active.dvsp2.gcp.mongodb.ne
 db = cluster["finance"]
 collection = db["most-active"]
 
-#Base code, Do not Edit unless changing websites
+#Base code, do not edit unless changing websites
 my_url = 'https://ca.finance.yahoo.com/most-active'
 uClient = uReq(my_url)
 page_html = uClient.read()
